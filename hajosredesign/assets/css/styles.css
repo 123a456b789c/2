@@ -1,3 +1,11 @@
+.cimsor {
+  font-size: 35px;
+  text-align: center;
+  color: var(--bs-body-color);
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+}
+
 .szoveg1 {
   width: 60%;
   font-size: 25px;
